@@ -38,8 +38,8 @@
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
-    "@angular-builders/custom-webpack": "^10.0.1",
-    "@angular-devkit/build-angular": "~0.1001.7",
+    "@angular-builders/custom-webpack": "^14.1.0",
+    "@angular-devkit/build-angular": "~15.0.0",
     "@angular/cli": "~10.1.7",
     "@angular/compiler-cli": "~10.1.6",
     "@babel/core": "^7.12.3",
@@ -47,10 +47,10 @@
     "@datorama/akita-ng-router-store": "^5.0.0",
     "@datorama/akita-ngdevtools": "^4.0.0",
     "@storybook/addon-actions": "^6.0.27",
-    "@storybook/addon-essentials": "^6.0.27",
+    "@storybook/addon-essentials": "^6.5.13",
     "@storybook/addon-google-analytics": "^6.0.27",
     "@storybook/addon-links": "^6.0.27",
-    "@storybook/angular": "^6.0.27",
+    "@storybook/angular": "^6.5.13",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
